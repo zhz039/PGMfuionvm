@@ -5,7 +5,7 @@
 Runing with MATLAB2022a with Image Processing Toolbox.
 
 **Usage**<br />
-Provide examples and guidelines on how to utilize this tool for seismic tomography analysis. Run Mian.m to start.
+Provide examples of how to utilize this tool for multi-resolution seismic velocity model fusion. Run Mian.m to start.
 
 **Research Paper**<br />
 For a comprehensive understanding of the methodologies and principles underlying this implementation, refer to the paper available at ESS Open Archive.
