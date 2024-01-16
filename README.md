@@ -1,5 +1,5 @@
 **Overview**<br />
-"PGMfuionvm" is a MATLAB-based implementation of the methodologies described in the research paper "Fusion of Multiresolution Seismic Tomography Maps Using Physics-informed Probability Graphical Models." This project aims to fuse multiresolution seismic tomography maps with probability graphical models (PGMs) for enhanced accuracy in seismic velocity models.
+"PGMfuionvm" is a MATLAB-based implementation of the methodologies described in the research paper "3D Multiresolution Velocity Model Fusion With Probability Graphical Models" This project aims to fuse multiresolution seismic tomography maps with probability graphical models (PGMs) for enhanced accuracy in seismic velocity models.
 
 **Installation**<br />
 Runing with MATLAB2022a with Image Processing Toolbox.
